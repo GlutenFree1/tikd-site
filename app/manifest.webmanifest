@@ -1,0 +1,12 @@
+{
+  "name": "Tikd",
+  "short_name": "Tikd",
+  "description": "Track who owes who.",
+  "start_url": "/tikd-site/app/",
+  "scope": "/tikd-site/app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEEAFD",
+  "theme_color": "#6C4CF1",
+  "icons": [{ "src": "/tikd-site/app/icon-512.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }]
+}
